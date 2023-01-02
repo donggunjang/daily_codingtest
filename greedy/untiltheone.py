@@ -7,6 +7,7 @@
 2. N을 K로 나눈다.
 '''
 
+
 #공백으로 구분하여 N,K 입력 받기
 n, k = map(int, input().split())
 
